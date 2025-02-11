@@ -61,3 +61,5 @@ We encourage you to contribute to mitype! Please check out the [Contributing Gui
 Licensed under the [GPL](LICENSE.txt) license.
 
 Text samples in database are collected from [Typeracer Data](http://typeracerdata.com/texts).
+
+Playing arroudn!
